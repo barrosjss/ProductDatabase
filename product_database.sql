@@ -44,4 +44,4 @@ select * from category;
 select * from product;
 
 select product.name_product,product.price,category.name_category,suppliers.name_suppliers from product 
-join category on product.fk_category = product.pk_id join suppliers on product.fk_suppliers = suppliers.pk_id;
+join category on product.fk_category = category.pk_id join suppliers on product.fk_suppliers = suppliers.pk_id;
