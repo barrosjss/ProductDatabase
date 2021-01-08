@@ -20,4 +20,4 @@ _Try in **phpMyAdmin**._
 
 
   [1]: https://www.flaticon.es/svg/static/icons/svg/4003/4003686.svg
-  [2]: #file:eac78eb0-b037-e8e3-5404-71ca37e9db6c
+  [2]: https://github.com/barrosjss/product_database/blob/main/Screenshot_4.jpg?raw=true
